@@ -1,0 +1,16 @@
+{
+  "short_name": "MYID",
+  "name": "MYID — Personal Digital Identity Card Builder",
+  "description": "Pembuat kartu identitas pribadi digital dan kartu nama digital.",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><rect width='100' height='100' rx='24' fill='%232563eb'/><path d='M25 35h50M25 50h50M25 65h32' stroke='white' stroke-width='8' stroke-linecap='round'/><circle cx='72' cy='65' r='6' fill='%2360a5fa'/></svg>",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#0f172a",
+  "theme_color": "#2563eb",
+  "display": "standalone"
+}

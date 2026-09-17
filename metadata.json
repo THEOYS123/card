@@ -1,0 +1,6 @@
+{
+  "name": "MYID — Personal Digital Identity Card",
+  "description": "Create your personal digital identity card, wallet card, and digital business card — free, printable, and shareable.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
